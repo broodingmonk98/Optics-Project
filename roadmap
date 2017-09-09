@@ -1,0 +1,10 @@
+Excitation:
+1)There will be spontaneous excitation through pump
+2)Excitation by stimulated photons, but this is included in gain term.
+Generation of Photons:
+1)There will be spontaneous emmission          ------1
+2)Stimulated emmission, same phase, same direction.
+Loss of Photons:
+1)There will be loss at mirror			-----2:
+2)Loss due to absorption by ground state atoms included in the gain term.
+3)Photons at an angle, shall just go out of the gain medium.
